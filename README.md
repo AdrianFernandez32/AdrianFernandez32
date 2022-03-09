@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdrianFernandez32
 - 👀 I’m interested in web development and app design
-- 🌱 I’m currently learning Java and I'll start with Python soon
-- 💞️ I’m looking to collaborate on Facebook Universiy
+- 🌱 I’m currently learning Java and I'll start with WebDev soon
 - 📫 How to reach me:
 www.linkedin.com/in/adrianfernandez32
 or you can send me an e-mail oscar.adrian.fersa@gmail.com
